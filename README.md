@@ -2,7 +2,7 @@
 通过agnet监控和修改线程池
 
 ## 思路
-来源思路来自https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html
+思路来源来自https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html.
 项目主要通过agent采集线程池数据，和通过spring的Endpoint暴露接口查询和修改线程池.
 
 ## 使用
