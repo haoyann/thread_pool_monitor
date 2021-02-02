@@ -39,7 +39,7 @@ management.endpoints.web.exposure.include=threadPool
             "rejectedCount": 0
         }
      ]
-
+}
 ```
 修改 ：POST http://ip:port/actuator/threadPool
 
